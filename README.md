@@ -1,0 +1,2 @@
+# Cmake
+cake test
